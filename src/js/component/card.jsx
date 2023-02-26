@@ -2,7 +2,6 @@ import React from "react";
 
 const Card = () => {
     return (
-        <div>
             <div className="d-flex justify-content-center">
                 <div className="card" style={{ width: "18rem" }}>
                     <img className="card-img-top" src="https://fastly.picsum.photos/id/45/4592/2576.jpg?hmac=Vc7_kMYufvy96FxocZ1Zx6DR1PNsNQXF4XUw1mZ2dlc" alt="Card image cap" />
@@ -15,7 +14,6 @@ const Card = () => {
                     </div>
                 </div>
             </div>
-        </div>
     );
 }
 

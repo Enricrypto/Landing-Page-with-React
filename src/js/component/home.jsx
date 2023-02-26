@@ -15,8 +15,8 @@ const Home = () => {
 		<div>
 			<NavBar />
 			<Jumbotron />
-				<Cards />
-				<Footer />
+			<Cards />
+			<Footer />
 		</div>
 	)
 };

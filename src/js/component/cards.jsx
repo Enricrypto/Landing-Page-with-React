@@ -4,7 +4,6 @@ import Card from "./card.jsx"
 
 const Cards = () => {
     return (
-        <div>
             <div className="container">
                 <div className="row justify-content-evenly g-3 mt-3">
                     <div className="col-12 col-md-6 col-lg-3">
@@ -21,7 +20,6 @@ const Cards = () => {
                     </div>
                 </div>
             </div>
-        </div>
     );
 }
 
